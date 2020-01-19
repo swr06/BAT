@@ -7,9 +7,10 @@ This is a basic archiving tool that can combine multiple files into a single fil
 BAT works with all file formats and supports ANSI, UTF8, UTF16 and UTF32. 
 It has CRC file integrity checks and has support for various file attributes. 
 
-# Building
+# Building and Libraries used
 
-BAT is programmed in C++17 and compiled using Visual Studio 2019 
+BAT is programmed in C++17 and compiled using Visual Studio 2019.
+I used basic MFC and a CRC library called CRC++ by Daniel Bahr
 
 # Command Line arguments
 
@@ -37,3 +38,4 @@ I am a 13 year old programmer from India! :)
 # Reporting bugs 
 
 You can email me at samuelrasquinha@gmail.com
+
