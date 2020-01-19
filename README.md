@@ -5,7 +5,7 @@ This is a basic archiving tool that can combine multiple files into a single fil
 # Features
 
 BAT works with all file formats and supports ANSI, UTF8, UTF16 and UTF32. 
-It has CRC file integrity checks and has support for various file attributes. 
+It has CRC file integrity checks and has support for various file attributes. It is kind of similar to TAR
 
 # Building and Libraries used
 
