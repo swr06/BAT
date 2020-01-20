@@ -33,7 +33,7 @@ I used basic MFC and a CRC library called CRC++ by Daniel Bahr
     
 # About the programmer
 
-I am a 13 year old programmer from India! :)
+My name is Samuel Rasquinha and I am a 13 year old programmer from India! :)
 
 # Reporting bugs 
 
