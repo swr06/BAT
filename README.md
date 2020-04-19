@@ -2,12 +2,12 @@
 
 ![BAT V01 Logo](https://github.com/swr06/Basic_Archiving_Tool/blob/master/branding/Logo.png)
 
-This is a basic archiving tool that can combine multiple files into a single file. Which makes transferring the archived file from one computer to another very easy. It has been tested and works fine though there might be some unseen bugs.
+This is a basic archiving tool that can combine multiple files into a single file. Which makes transferring the archived file from one computer to another very easy. It has been tested and works fine. 
 
 # Features
 
 BAT works with all file formats and supports ANSI, UTF8, UTF16 and UTF32. 
-It has CRC file integrity checks and has support for various file attributes. It is kind of similar to TAR
+It has CRC file integrity checks and has support for various file attributes. It will know if the file is hidden or is a system file. It is a little similar to TAR.
 
 # Building and Libraries used
 
