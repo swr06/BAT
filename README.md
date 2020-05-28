@@ -32,7 +32,11 @@ I used basic MFC and a CRC library called CRC++ by Daniel Bahr
 		EOF (Extract one file)  = \EOF ARCHIVE FILE_NAME DIR
 		EAF (Extract all files from an archive) = \EAF ARCHIVE DIR
 		EAL (Extract all files from a list) = \EAL ARCHIVE FILE_LIST
-    
+   
+# A little side note
+
+Please make sure to pass in the full path while passing it into the binary. It needs a full path to continue. Also make sure not to include "" in the path
+   
 # About the programmer
 
 My name is Samuel Rasquinha and I am a 13 year old programmer from India! :)
