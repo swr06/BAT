@@ -2,7 +2,6 @@
 #define _HAS_STD_BYTE 0
 #define CPY_SPEED 100000000 // The amount of ram it allocates while copying or generating a CRC code
 
-
 #include <Windows.h>
 #include <stdio.h>
 

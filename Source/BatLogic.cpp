@@ -237,18 +237,8 @@ bool IsBatFile(string path)
 
 		if (bat_f.good() == true)
 		{
-			bat_f.read(read_bytes, 5);
 			bat_f.close(); 
-
-			if (!strcmp(read_bytes, "%BAT%"))
-			{
-				return true;
-			}
-
-			else
-			{
-				return false;
-			}
+			return true;
 		}
 
 		else
